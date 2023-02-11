@@ -2,33 +2,33 @@ const { Product } = require('../models');
 
 const productData = [
   {
-    product_name: 'Plain T-Shirt',
-    price: 14.99,
+    product_name: 'Spark PLugs',
+    price: 6.99,
     stock: 14,
     category_id: 1,
   },
   {
-    product_name: 'Running Sneakers',
-    price: 90.0,
-    stock: 25,
+    product_name: 'Spark Plug Wires',
+    price: 15.99,
+    stock: 8,
     category_id: 5,
   },
   {
-    product_name: 'Branded Baseball Hat',
-    price: 22.99,
-    stock: 12,
+    product_name: 'Distributor',
+    price: 78.99,
+    stock: 4,
     category_id: 4,
   },
   {
-    product_name: 'Top 40 Music Compilation Vinyl Record',
+    product_name: 'Magneto',
     price: 12.99,
-    stock: 50,
+    stock: 15,
     category_id: 3,
   },
   {
-    product_name: 'Cargo Shorts',
-    price: 29.99,
-    stock: 22,
+    product_name: 'Battery',
+    price: 129.99,
+    stock: 15,
     category_id: 2,
   },
 ];
